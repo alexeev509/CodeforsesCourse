@@ -3,7 +3,7 @@
 #include <vector>
 #include <string>
 #include <algorithm>
-
+//It isn't good - better code is on codeforces 
 
 using namespace std;
 
