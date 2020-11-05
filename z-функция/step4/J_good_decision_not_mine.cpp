@@ -26,3 +26,5 @@ int main()
 }
 
 // i don't understand how to proof this fact: s[z[i]] > s[i + z[i]] ??
+
+//- Underdtood :)
